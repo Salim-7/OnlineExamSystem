@@ -1,0 +1,26 @@
+﻿body {
+}
+
+form {
+    border: 3px solid #f1f1f1;
+    width:300px;
+    display:block;
+    position: relative;
+    background-color:#CCC;
+}
+
+.img1 {
+    width:150px;
+ 
+}
+.container {
+    padding: 16px;
+}
+
+.imgcont{
+
+     text-align: center;
+    margin: 24px 0 12px 0;
+
+}
+    
